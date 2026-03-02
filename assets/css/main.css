@@ -33484,3 +33484,7 @@ border-bottom: 2px solid black;
 .rs-contact-icon i{
     color: white;
 }
+
+.rs-theme-settings{
+    display: none !important;
+}
